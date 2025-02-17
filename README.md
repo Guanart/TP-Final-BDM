@@ -1,5 +1,14 @@
-# TP-FINAL-BDM
-Repositorio para el trabajo final de la asignatura Bases de Datos Masivas de la Universidad Nacional de Luján
+# Jupyter Notebook
 
-### Dataset
-Link: https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/botnet-and-ransomware-detection-datasets/
+Para levantar el entorno
+
+```docker-compose up```
+
+Se accede desde 
+
+http://localhost:8888
+
+Hay 2 carpetas compartidas para poder usar y guardar el trabajo localmente.
+
+- data -> para los datasets a utilizar
+- notebooks -> para los notebooks realizados en jupyter
